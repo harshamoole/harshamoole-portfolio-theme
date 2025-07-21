@@ -1,0 +1,57 @@
+/*
+Theme Name: HarshaMoole Portfolio Theme
+Theme URI: https://github.com/harshamoole/harshamoole-portfolio-theme
+Author: Harsha Moole
+Author URI: https://linkedin.com/in/harsha-moole-76343b371
+Description: A clean and responsive custom WordPress theme for showcasing personal projects and skills.
+Version: 1.0
+License: MIT
+License URI: https://opensource.org/licenses/MIT
+Text Domain: harshamoole-portfolio
+Tags: portfolio, personal, custom-theme, responsive
+*/
+
+/* Start of Custom Theme CSS */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+/* =Base Styles
+----------------------------------------------- */
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  line-height: 1.6;
+  background-color: #f9f9f9;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  max-width: 800px;
+  margin: auto;
+  background: #fff;
+  padding: 20px;
+}
+
+h1, h2, h3 {
+  color: #222;
+}
+
+header, footer {
+  background-color: #333;
+  color: #fff;
+  padding: 15px;
+  text-align: center;
+}
+
+header a {
+  color: #fff;
+  text-decoration: none;
+}
+
+section {
+  margin-bottom: 30px;
+}
